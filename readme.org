@@ -1,1 +1,3 @@
 * Don't call me Turkey
+
+[[file:front_image.png]]
